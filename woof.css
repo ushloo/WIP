@@ -1,0 +1,10 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/detailed-hand-painted-pink-watercolour-background_1048-17039.jpg);
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
