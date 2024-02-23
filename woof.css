@@ -1,21 +1,24 @@
 body{
     background-image: url(https://img.freepik.com/free-vector/detailed-hand-painted-pink-watercolour-background_1048-17039.jpg);
 }
+
 .main{
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 .capture {
-    background-color: lavenderblush;
+    width: 85%;
+    background-color: mistyrose;
     margin-left: auto;
     margin-right: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
-    
-    
 }
+
+.dog{
+    
 
 
 
