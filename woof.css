@@ -1,17 +1,18 @@
 body{
-    background-image: url(https://img.freepik.com/free-vector/detailed-hand-painted-pink-watercolour-background_1048-17039.jpg);
+    background: url(https://media.istockphoto.com/id/1284946513/photo/watercolor-painting-on-watercolor-paper-with-copy-space-millennial-pink.webp?b=1&s=170667a&w=0&k=20&c=lRQwjvsbAZUJ8HCSgpLNX_macJo8oyMGjsZ1hGa77M8=) center no-repeat;
+    background-size: cover;
 }
 
-.main{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    
-}
-.one {
+
+.one{
     width: 40%;
     background-color: mistyrose;
     float: left;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
 }
 .dog{
     width: 500px;
@@ -21,6 +22,11 @@ body{
     width: 40%;
     background-color: mistyrose;
     float: right;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
 }
 
     
